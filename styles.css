@@ -1,0 +1,73 @@
+img {
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    color: gold;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background:
+        url("https://media3.giphy.com/media/xT9IgN8YKRhByRBzMI/giphy.gif");
+    background-size: 2500px;
+}
+
+.Movie {
+    font-family: 'Pacifico', cursive;
+    font-family: 'Fascinate Inline', cursive;
+    font-family: 'Monoton', cursive;
+    font-family: 'Creepster', cursive;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Faster One', cursive;
+    font-family: 'Kumar One', cursive;
+    font-family: 'Nosifer', cursive;
+}
+
+.Cars {
+
+    font-family: 'Pacifico', cursive;
+    font-family: 'Fascinate Inline', cursive;
+    font-family: 'Monoton', cursive;
+    font-family: 'Creepster', cursive;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.Soccer {
+    font-family: 'Pacifico', cursive;
+    font-family: 'Fascinate Inline', cursive;
+    font-family: 'Monoton', cursive;
+    font-family: 'Creepster', cursive;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Black Ops One', cursive;
+}
+
+.UFC {
+    font-family: 'Pacifico', cursive;
+    font-family: 'Fascinate Inline', cursive;
+    font-family: 'Monoton', cursive;
+    font-family: 'Creepster', cursive;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Faster One', cursive;
+    font-family: 'Kumar One', cursive;
+}
+
+.othman {
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+
+.shariff {
+    font-size: 50px;
+    color: white;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Merienda One', cursive;
+}
